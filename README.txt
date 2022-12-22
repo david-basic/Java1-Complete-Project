@@ -1,5 +1,4 @@
-# Java1CompleteProject
-Java 1 project
+Java1CompleteProject
 
 This project uses SQL server 2019.
 To use this project run the SQLscript.sql file in master on your Miscrosoft SQL Server Management Studio.
